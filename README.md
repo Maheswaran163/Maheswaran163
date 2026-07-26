@@ -121,8 +121,8 @@ A web platform that lets customers place firework orders online, with a full use
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maheswaran163&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswaran163&layout=compact&theme=tokyonight&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maheswaran163&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswaran163&layout=compact&theme=tokyonight&cache_seconds=86400&hide=jupyter+notebook" />
 
 </div>
 
