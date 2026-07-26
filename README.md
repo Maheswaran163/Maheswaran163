@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maheswaran%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20%26%20Backend%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
+<img src="https://github.com/Maheswaran163.png" width="150" style="border-radius: 50%;" alt="Profile Photo"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Maheswaran+%F0%9F%91%8B;BCA+Student+%7C+Sivakasi%2C+Tamil+Nadu;Java+%7C+C%2B%2B+%7C+MySQL+%7C+Android;Learning+%2C+Building+%2C+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -27,6 +29,8 @@ public class Maheswaran {
     };
 
     private String[] currentlyLearning = {
+        "Web Development",
+        "AI / Machine Learning",
         "Backend Development",
         "System Design Basics",
         "WordPress & IoT"
@@ -60,6 +64,8 @@ public class Maheswaran {
 
 **Frameworks & Platforms**
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
@@ -96,6 +102,7 @@ A web platform that lets customers place firework orders online, with a full use
 
 | Degree | Institution | Duration | Score |
 |---|---|---|---|
+| M.C.A (Master of Computer Application) | Ayya Nadar Janaki Ammal College, Sivakasi | Pursuing | — |
 | B.C.A (Bachelor of Computer Application) | Ayya Nadar Janaki Ammal College, Sivakasi | 2023 – 2026 | 65% |
 | Higher Secondary (12th) | Government Higher Secondary School | 2023 | 71% |
 | Secondary (10th) | Velankanni Matha Higher Secondary School | 2021 | Pass |
