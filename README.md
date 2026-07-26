@@ -87,11 +87,13 @@ public class Maheswaran {
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Project — Final Year Project
 
-**[Sivaraj Fireworks — E-commerce & Admin Management Website](#)**
+**[Sivaraj Fireworks — E-commerce & Admin Management Website](https://sivaraj.infinityfreeapp.com/)**
 A web platform that lets customers place firework orders online, with a full user-management system for shop admins to manage products and orders.
 `Role:` Online Order Module Development
+
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-success?style=flat-square&logo=googlechrome&logoColor=white)](https://sivaraj.infinityfreeapp.com/)
 
 ---
 
