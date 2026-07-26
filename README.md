@@ -5,7 +5,7 @@
 <img src="https://github.com/Maheswaran163.png" width="150" style="border-radius: 50%;" alt="Profile Photo"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Maheswaran+%F0%9F%91%8B;BCA+Student+%7C+Sivakasi%2C+Tamil+Nadu;Java+%7C+C%2B%2B+%7C+MySQL+%7C+Android;Learning+%2C+Building+%2C+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Maheswaran+%F0%9F%91%8B;MCA+Student+%7C+Sivakasi%2C+Tamil+Nadu;Java+%7C+C%2B%2B+%7C+Python+%7C+React;Learning+%2C+Building+%2C+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -21,7 +21,7 @@ public class Maheswaran {
 
     private String name = "Maheswaran S";
     private String location = "Sivakasi, Tamil Nadu, India";
-    private String degree = "B.C.A, Ayya Nadar Janaki Ammal College";
+    private String degree = "M.C.A, Ayya Nadar Janaki Ammal College";
 
     private String[] stack = {
         "Java", "C++", "Python", "MySQL", "MongoDB", "R",
