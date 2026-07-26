@@ -1,16 +1,161 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Maheswaran163/Maheswaran163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maheswaran%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20%26%20Backend%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Maheswaran+%F0%9F%91%8B;BCA+Student+%7C+Sivakasi%2C+Tamil+Nadu;Java+%7C+C%2B%2B+%7C+MySQL+%7C+Android;Learning+%2C+Building+%2C+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```java
+public class Maheswaran {
+
+    private String name = "Maheswaran S";
+    private String location = "Sivakasi, Tamil Nadu, India";
+    private String degree = "B.C.A, Ayya Nadar Janaki Ammal College";
+
+    private String[] stack = {
+        "Java", "C++", "MySQL", "R",
+        "Android Studio", "Kotlin"
+    };
+
+    private String[] currentlyLearning = {
+        "Backend Development",
+        "System Design Basics",
+        "WordPress & IoT"
+    };
+
+    private String funFact = "Won 1st Prize in an inter-college Software Marketing event!";
+
+    public String motto() {
+        return "Honest, punctual, and always learning something new.";
+    }
+
+    public static void main(String[] args) {
+        Maheswaran me = new Maheswaran();
+        System.out.println(me.motto());
+    }
+}
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Project
+
+**[Sivaraj Fireworks — E-commerce & Admin Management Website](#)**
+A web platform that lets customers place firework orders online, with a full user-management system for shop admins to manage products and orders.
+`Role:` Online Order Module Development
+
+---
+
+### 💼 Experience
+
+**App Development Intern**
+*May 2024 – April 2025*
+- Gained hands-on experience in app development using **Java** and **Kotlin** in Android Studio
+- Assisted in mobile app development for a **Workout Manager App**
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Duration | Score |
+|---|---|---|---|
+| B.C.A (Bachelor of Computer Application) | Ayya Nadar Janaki Ammal College, Sivakasi | 2023 – 2026 | 65% |
+| Higher Secondary (12th) | Government Higher Secondary School | 2023 | 71% |
+| Secondary (10th) | Velankanni Matha Higher Secondary School | 2021 | Pass |
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 **1st Prize** — Inter-college Software Marketing event
+- 📜 **IoT for Smart Home Appliances** — Workshop & Certification, Ayya Nadar Janaki Ammal College (2024)
+- 📜 **WordPress** — Certification, Ayya Nadar Janaki Ammal College (2025)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maheswaran163&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswaran163&layout=compact&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheswaran163&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maheswaran163&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Maheswaran163&theme=tokyo-night" />
+
+</div>
+
+---
+
+### 🎯 Interests
+
+♟️ Chess &nbsp;•&nbsp; 🎬 Video Editing
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssmaheswaran-1603s)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sabarimahes16@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
