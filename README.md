@@ -121,14 +121,14 @@ A web platform that lets customers place firework orders online, with a full use
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maheswaran163&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswaran163&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maheswaran163&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswaran163&layout=compact&theme=tokyonight&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheswaran163&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Maheswaran163&theme=tokyonight" />
 
 </div>
 
@@ -144,7 +144,7 @@ A web platform that lets customers place firework orders online, with a full use
 
 <div align="center">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Maheswaran163&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheswaran163&theme=tokyo-night" />
 
 </div>
 
